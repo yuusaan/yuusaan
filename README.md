@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ゆ～さんがいろいろ試すべく入れたリポジトリ...でも作成時点では何にも分かっていません...<br>
+いろいろ勉強するよ
 <!--
 **yuusaan/yuusaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
